@@ -1,17 +1,28 @@
 # Grow-a-Tree Knowledge Base
 
-Backup for FictionMeotivation's personal [Grow-a-Tree](https://growatree.app/) [Obsidian](https://obsidian.md) vault.
+An unofficial, player-maintained reference for [Grow-a-Tree](https://growatree.app/), the cooperative Discord game.
 
-I claim no ownership of Grow-a-Tree [Discord](https://discord.com) cooperative game app. 
+This knowledge base documents collectible insects, sticker-book locations, capture methods, colors, and rewards. Information is gathered through gameplay and community contributions.
 
-I am using their bug images under [Fair Use Doctrine](https://en.wikipedia.org/wiki/Fair_use).
+## Guides
 
-For support, please go to their [Discord](https://discord.com/servers/grow-a-tree-395423304112013334) server.
+- [**Collectible Bugs**](Data/Bugs.md) — Insects organized by coin (:coin:) value, with images and collection information.
 
-To add the game to your own Discord server, see the  [top.gg](https://top.gg/bot/972637072991068220?utm_source=chatgpt.com) bot page.
+## About This Project
 
----
+This repository is maintained by [FictionMeowtivation](https://github.com/FictionMeowtivation) using [Obsidian](https://obsidian.md).
 
-- [Bugs](Bugs/Bugs.md) by `:coin:` value
+The knowledge base is a work in progress. Some information may be incomplete or provisional.
 
----
+Grow-a-Tree updates gameplay and elements over time. This information is as captured as of 22-11-2026.
+
+## Disclaimer and Credits
+
+This is an unofficial fan-maintained resource and is not affiliated with the creators of Grow-a-Tree.
+
+Game artwork and related intellectual property belong to their respective owners. Images are reproduced for identification and reference purposes.
+
+For official game support, visit the [Grow-a-Tree Discord server](https://discord.com/servers/grow-a-tree-395423304112013334).
+
+To add Grow-a-Tree to your own Discord server, visit its [top.gg listing](https://top.gg/bot/972637072991068220).
+
