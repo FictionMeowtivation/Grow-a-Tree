@@ -15,7 +15,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Aphid
 
-- page: 4
+- Page: 4
 - Collected by: net
 - Color: green
 
@@ -23,7 +23,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Bee
 
-- page: 0
+- Page: 0
 - Collected by: net
 - Color: yellow, black
 
@@ -31,7 +31,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Caterpillar
 
-- page: 0
+- Page: 0
 - Collected by: net
 - Color: green
 
@@ -39,7 +39,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Cicada
 
-- page: 4
+- Page: 4
 - Collected by: net
 - Color: orange, indigo
 
@@ -47,7 +47,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Eastern Tent Caterpillar
 
-- page: 4
+- Page: 4
 - Collected by: net
 - Color: yellow, green
 
@@ -55,7 +55,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Hercules Beetle
 
-- page: 2
+- Page: 2
 - Collected by: net
 - Color: orange, black
 
@@ -63,7 +63,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Monarch Butterfly
 
-- page: 2
+- Page: 2
 - Collected by: net
 - Color: orange, black
 
@@ -71,7 +71,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Oak Treehopper
 
-- page: 6
+- Page: 6
 - Collected by: net
 - Color: blue
 
@@ -81,7 +81,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Common Buckeye Butterfly
 
-- page: 0
+- Page: 0
 - Collected by: net
 - Color: indigo, orange, yellow, black
 
@@ -89,7 +89,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Cucumber Beetle
 
-- page: 4
+- Page: 4
 - Collected by: net
 - Color: yellow, black
 
@@ -97,7 +97,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Dragonfly
 
-- page: 3
+- Page: 3
 - Collected by: net
 - Color: green, blue
 
@@ -105,7 +105,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Firefly
 
-- page: 1
+- Page: 1
 - Collected by: net
 - Color: orange, black
 
@@ -113,7 +113,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Leafminer
 
-- page: 5
+- Page: 5
 - Collected by: net
 - Color: orange
 
@@ -121,7 +121,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Springtail
 
-- page: 7
+- Page: 7
 - Collected by: net
 - Color: yellow
 
@@ -129,7 +129,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Wasp
 
-- page: 3
+- Page: 3
 - Collected by: net
 - Color: yellow, black
 
@@ -137,15 +137,17 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Whitefly
 
-- page: 4
+- Page: 4
 - Collected by: net
-- Color: yellow (provisional)
+- Color: yellow
+
+![Whitefly image](Images/Whitefly.png)
 
 ## 40 :coin:
 
 ### Bagworm Moth
 
-- page: 4
+- Page: 4
 - Collected by: net
 - Color: orange, red, black
 
@@ -153,7 +155,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Blue Dasher Dragonfly
 
-- page: 0
+- Page: 0
 - Collected by: net
 - Color: blue
 
@@ -161,7 +163,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Christmas Beetle
 
-- page: 5
+- Page: 5
 - Collected by: net
 - Color: yellow
 
@@ -169,7 +171,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Hummingbird Moth
 
-- page: 5
+- Page: 5
 - Collected by: net
 - Color: orange
 
@@ -182,7 +184,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Orchard Orbweaver Spider
 
-- page: 6
+- Page: 6
 - Collected by: net
 - Color: red, black, orange
 
@@ -190,15 +192,22 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Spotted Lanternfly
 
-- page: 7
+- Page: 7
 - Collected by: net
 - Color: red
 
 ![Spotted Lanternfly image](Images/Spotted%20Lanternfly.png)
 
+### Tiger Swallowtail Butterfly
+- Page: 3
+- Collected by: net
+- Color: yellow, black
+
+![Tiger Swallowtail Butterfly image](Images/Tiger%20Swallowtail%20Butterfly.png)
+
 ### Walking Leaf
 
-- page: 3
+- Page: 3
 - Collected by: net
 - Color: green
 
@@ -206,7 +215,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Zebra Longwing Butterfly
 
-- page: 6
+- Page: 6
 - Collected by: net
 - Color: yellow, black
 
@@ -216,7 +225,7 @@ Each bug in this section is worth 8 :coin: and 40 experience points.
 
 ### Blue Morpho Butterfly
 
-- page: 5
+- Page: 5
 - Collected by: net
 - Color: blue, black
 
