@@ -1,10 +1,10 @@
 # Grow-a-Tree Knowledge Base
 
-Backup for FictionMeotivation's personal [Grow-a-Tree]([Grow A Tree](https://growatree.app/)) [Obsidian](https://obsidian.md) vault.
+Backup for FictionMeotivation's personal [Grow-a-Tree](https://growatree.app/) [Obsidian](https://obsidian.md) vault.
 
 I claim no ownership of Grow-a-Tree [Discord](https://discord.com) cooperative game app. 
 
-I am using their bug images under [Fair Use Doctrine]([Fair use - Wikipedia](https://en.wikipedia.org/wiki/Fair_use)).
+I am using their bug images under [Fair Use Doctrine](https://en.wikipedia.org/wiki/Fair_use).
 
 For support, please go to their [Discord](https://discord.com/servers/grow-a-tree-395423304112013334) server.
 
