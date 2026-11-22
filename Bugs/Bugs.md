@@ -12,7 +12,10 @@ Some data is based on this [Reddit](https://www.reddit.com/r/bored/comments/12bf
 Each bug in this section  is worth 8 :coin: and 40 experience points.
 
 ### Aphid
-`/sticker-book` page 4
-Collected by: net
-![[Aphid.png]]
+
+- `/sticker-book` page: 4
+- Collected by: net
+- Color: green
+
+![Aphid image](/Bugs/Images/Aphid.png)
 
