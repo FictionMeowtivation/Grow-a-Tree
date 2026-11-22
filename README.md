@@ -12,6 +12,6 @@ To add the game to your own Discord server, see the  [top.gg](https://top.gg/bot
 
 ---
 
-- [[Bugs]] by `:coin:` value
+- [Bugs](Bugs/Bugs.md) by `:coin:` value
 
 ---
